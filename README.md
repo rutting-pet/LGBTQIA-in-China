@@ -1,4 +1,12 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="LGBT-CN logo" src="https://github.com/LGBT-CN/logo/raw/master/LGBTQIA-China.png">
+<div align="center">
+  <br>
+	<br>
+	<img src="https://github.com/LGBT-CN/logo/raw/master/LGBTQIA-China.png" width="128" height="128">
+	<br>
+	<br>
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=kevinzonda&hide_border=true">-->
+</div>
+
 
 # LGBTQIA in China
 
