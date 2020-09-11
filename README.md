@@ -46,6 +46,7 @@
 - [Stapx Steve](https://twitter.com/Stapx_Steve)
 - [KirisameMisawa](https://github.com/KirisameMisawa)
 - [Sukazyo](https://github.com/Eyre-S)
+- [Alan_Fu](https://github.com/rutting-pet)
 
 ## 文章
 
